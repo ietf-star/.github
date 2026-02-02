@@ -1,5 +1,3 @@
-# STAR-WG
+# STAR
 
-STorage-Aware Routing Wondering Group.
-
-One day, perhaps: `s/Wondering/Working/`.
+STorage-Aware Routing group.
